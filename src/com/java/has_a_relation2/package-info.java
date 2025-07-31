@@ -1,0 +1,1 @@
+package com.java.has_a_relation2;
