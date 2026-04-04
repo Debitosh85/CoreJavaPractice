@@ -8,6 +8,7 @@ class ThreadName{
 	
 	System.out.println("Running Thread name is:"+name);
 	
+	
 	synchronized(this) {
 		System.out.println(name+"Thread running inside synchronized block...");
 		for(int i=1;i<=10;i++) {

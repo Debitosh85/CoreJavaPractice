@@ -41,7 +41,7 @@ public class TicketCounter {
 public native static Thread CurrentThread()
 public synchronized void start()
 public static void sleep()
-public final String setName()
+public final void setName()
 public final String getName()
 public final boolean isAlive()
 public final void join()
